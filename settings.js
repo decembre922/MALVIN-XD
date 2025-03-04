@@ -32,7 +32,7 @@ OWNER_NUMBER: process.env.OWNER_NUMBER || "31738351",
 OWNER_NAME: process.env.OWNER_NAME || "kelly",
 // add bot owner name
 
-DESCRIPTION: process.env.DESCRIPTION || "> *© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ✦ɴᴇxᴜs ᴛᴇᴄʜ ɪɴᴄ✦*",
+DESCRIPTION: process.env.DESCRIPTION || "kelly👁",
 // add bot owner name    
 
 ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/bddvfr.jpg",
@@ -62,7 +62,7 @@ AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
 AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true",
 // make true if you want auto react on status (still testing)
 
-AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "*🎉👀 Status Seen by ✦ᴍᴀʟᴠɪɴ xᴅ v2🚀🔥✦*",
+AUTO_STATUS_MSG: process.env.AUTO_STATUS_MSG || "♥️",
 // set the auto reply massage on status reply    
 
 MODE: process.env.MODE || "private",
